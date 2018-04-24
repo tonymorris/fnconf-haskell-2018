@@ -1,8 +1,8 @@
-# One day of Haskell at FunctionalConf
+# Two days of Haskell at FunctionalConf
 
 ### Bangalore, India, 13-16 December 2018
 
-###### Introduction to Haskell syntax and tools, **Tony Morris & Alois Cochard, 75 minutes**
+###### Introduction to Haskell syntax and tools, **Tony Morris & Alois Cochard, 150 minutes**
 
 In this workshop, an attendee can expect to go from zero knowledge about Functional Programming in Haskell to familiarity with almost all of the syntax of the Haskell programming language, and associated tools. The general workflow of working with Haskell will be demonstrated in preparation for the subsequent workshops for the remainder of the day.
 
@@ -12,7 +12,7 @@ Participants will require a laptop with [GHC](http://haskell.org/ghc) and their 
 
 We will explore the tooling that is provided with GHC to provide a basic workflow, so that the participant can later independently work with and explore other ideas with Haskell.
 
-###### Starting Data61 Functional Programming Course, **Brian McKenna, 120 minutes**
+###### Starting Data61 Functional Programming Course, **Brian McKenna, 240 minutes**
 
 Following Tony's introduction to functional programming and Haskell, we will work through the first few modules of Data61's Functional Programming Course. These modules cover writing functions for the optional and list data types.
 
@@ -20,11 +20,11 @@ We will complete enough exercises to cover basic data types, functions and polym
 
 This workshop has the same requirements as Tony's introduction, along with a download of a recent version of the fp-course repository (https://github.com/tonymorris/fp-course).
 
-###### *TODO*, **unknown, 120 minutes**
+###### *TODO*, **unknown, 240 minutes**
 
 *todo*
 
-###### *TODO*, **Mark Hibberd, 120 minutes**
+###### *TODO*, **Mark Hibberd, 240 minutes**
 
 *todo*
 
