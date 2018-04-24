@@ -2,7 +2,7 @@
 
 ### Bangalore, India, 13-16 December 2018
 
-###### Introduction to Haskell syntax and tools, **Tony Morris, 75 minutes**
+###### Introduction to Haskell syntax and tools, **Tony Morris & Alois Cochard, 75 minutes**
 
 In this workshop, an attendee can expect to go from zero knowledge about Functional Programming in Haskell to familiarity with almost all of the syntax of the Haskell programming language, and associated tools. The general workflow of working with Haskell will be demonstrated in preparation for the subsequent workshops for the remainder of the day.
 
@@ -20,7 +20,7 @@ We will complete enough exercises to cover basic data types, functions and polym
 
 This workshop has the same requirements as Tony's introduction, along with a download of a recent version of the fp-course repository (https://github.com/tonymorris/fp-course).
 
-###### *TODO*, **Runar Bjarnason, 120 minutes**
+###### *TODO*, **unknown, 120 minutes**
 
 *todo*
 
