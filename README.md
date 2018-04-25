@@ -20,7 +20,7 @@ We will complete enough exercises to cover basic data types, functions and polym
 
 This workshop has the same requirements as Tony's introduction, along with a download of a recent version of the fp-course repository (https://github.com/tonymorris/fp-course).
 
-###### *TODO*, **unknown, 240 minutes**
+###### *TODO*, **Isaac Elliott, 240 minutes**
 
 *todo*
 
