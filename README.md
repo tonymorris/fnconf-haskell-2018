@@ -18,7 +18,7 @@ Following Tony's introduction to functional programming and Haskell, we will wor
 
 We will complete enough exercises to cover basic data types, functions and polymorphism. We'll practice the techniques of equational reasoning, parametricity and type/hole driven development. After completing these modules, you should be able to use the techniques to attempt most other exercises in the repository.
 
-This workshop has the same requirements as Tony's introduction, along with a download of a recent version of the fp-course repository (https://github.com/tonymorris/fp-course).
+This workshop has the same requirements as Tony's introduction, along with a download of a recent version of the fp-course repository (https://github.com/data61/fp-course).
 
 ###### *TODO*, **Isaac Elliott, 240 minutes**
 
