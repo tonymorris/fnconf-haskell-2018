@@ -24,7 +24,7 @@ This workshop has the same requirements as Tony's introduction, along with a dow
 
 Building on Tony and Brian's introductions to functional programming with types, property based testing is the extra verification technique you need to ensure working software. We will work through the patterns of property based testing, starting with simple functions, working up to verification of a larger program.
 
-By the end of this workshop participants will have a better understanding of the advantages of property based tests over example based tests, as well as aquiring the skills and confidence to start applying property based testing techniques to their current work.
+By the end of this workshop participants will have a better understanding of the advantages of property based tests over example based tests, as well as acquiring the skills and confidence to start applying property based testing techniques to their current work.
 
 This workshop has the same requirements as Tony's introduction, and will require a recent clone of the workshop repository available at https://github.com/markhibberd/property-based-testing-workshop.
 
