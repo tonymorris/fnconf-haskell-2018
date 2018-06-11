@@ -1,4 +1,4 @@
-# Two days of Haskell at FunctionalConf
+# One day of introductory Haskell workshops at FunctionalConf
 
 ### Bangalore, India, 13-16 December 2018
 
