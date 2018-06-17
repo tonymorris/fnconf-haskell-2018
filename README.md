@@ -14,7 +14,7 @@ We will explore the tooling that is provided with GHC to provide a basic workflo
 
 ###### Starting Data61 Functional Programming Course, **Brian McKenna, 150 minutes**
 
-Following Tony's introduction to functional programming and Haskell, we will work through the first few modules of Data61's Functional Programming Course. These modules cover writing functions for the optional and list data types.
+Following Tony and Alois' Introduction to Haskell syntax and tools, we will work through the first few modules of Data61's Functional Programming Course. These modules cover writing functions for the optional and list data types.
 
 We will complete enough exercises to cover basic data types, functions and polymorphism. We'll practice the techniques of equational reasoning, parametricity and type/hole driven development. After completing these modules, you should be able to use the techniques to attempt most other exercises in the repository.
 
@@ -22,7 +22,7 @@ This workshop has the same requirements as Tony's introduction, along with a dow
 
 ###### Property Based Testing, **Mark Hibberd, 150 minutes**
 
-Building on Tony and Brian's introductions to functional programming with types, property based testing is the extra verification technique you need to ensure working software. We will work through the patterns of property based testing, starting with simple functions, working up to verification of a larger program.
+Building on the earlier two introductions to functional programming with types, property based testing is the extra verification technique you need to ensure working software. We will work through the patterns of property based testing, starting with simple functions, working up to verification of a larger program.
 
 By the end of this workshop participants will have a better understanding of the advantages of property based tests over example based tests, as well as acquiring the skills and confidence to start applying property based testing techniques to their current work.
 
